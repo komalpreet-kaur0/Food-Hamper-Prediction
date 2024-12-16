@@ -1,4 +1,4 @@
-### README for Food Hamper Pickup Prediction App
+### Food Hamper Pickup Prediction App
 
 ---
 
